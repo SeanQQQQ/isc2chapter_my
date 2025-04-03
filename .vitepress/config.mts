@@ -51,10 +51,5 @@ export default defineConfig({
       message: 'Disclaimer: ISC2 does not own, operate, or moderate this website. All content of this material, exclusive of licensed trademarks, trade dress, or website format, is the property of ISC2 Malaysia Chapter, which is not owned, managed, or controlled by ISC2 and operates independent of ISC2.',
       copyright: 'Copyright &copy; ISC2 Malaysia Chapter. ISC2 Inc., All Rights Reserved. ISC2, CISSP, SSCP, CCSP, CGRC, CSSLP, HCISPP, CISSP-ISSAP, CISSP-ISSEP, CISSP-ISSMP and CBK are registered marks of ISC2, Inc.'
     }
-  },
-  markdown: {
-    image: {
-      lazyLoading: true,
-    }
   }
 })
