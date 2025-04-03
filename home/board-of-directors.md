@@ -8,7 +8,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'president.png',
+    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/president.png',
     name: 'Ts. Tan Zhon Teck',
     title: 'President',
     links: [
