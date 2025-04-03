@@ -81,7 +81,7 @@ The chapter Board of Directors (BoDs) is run by a group of dedicated member volu
 <VPTeamMembers size="small" :members="members" />
 
 # Past Board of Directors
-## 2023-2024 Chapter Board of Directors
+## 2024-2025 Chapter Board of Directors
 | Position                     | Committee        |
 | ---------------------------- | ---------------- |
 | President                    | Jaclyn Sim       |

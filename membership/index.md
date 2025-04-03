@@ -1,0 +1,25 @@
+---
+prev: false
+next: false
+---
+# Join as ISC2MY Members!
+## Membership Benefits
+ISC2 Malaysia Chapter's membership is open to all Malaysian and Malaysian Residents. There are three (3) types of memberships:
+
+| Information                 | Professional Members                                                                     | Associate Members                                                                                                   | Student Members                                                                                                                                     |
+| --------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Requirements                | Holds valid ISC2 credential in good standing, shall be entitled to vote and hold office. | Any person interested in the purpose and objectives of ISC2 Malaysia Chapter but do not have voting rights in AGM. | Must be student at local institution of higher learning with interest in the purpose and objectives of ISC2 Malaysia Chapter and non-working adult. |
+| Registration fee (one-time) | RM50                                                                                     | RM50                                                                                                                | RM50                                                                                                                                                |
+| Membership Fee              | RM100 per annum                                                                          | RM50 per annum                                                                                                      | RM30 per annum                                                                                                                                      |
+| Merchandise                 | Free                                                                                     | Additional Fee                                                                                                      | Not allowed                                                                                                                                         |
+| Voting Right                | Yes                                                                                      | No                                                                                                                  | No                                                                                                                                                  |
+| Study Group                 | Yes                                                                                      | Yes                                                                                                                 | Yes                                                                                                                                                 |
+| Events (Conferences, etc.)  | Free/With Discount                                                                       | Normal Price                                                                                                        | Normal Price                                                                                                                                        |
+| Get-together activities     | Yes                                                                                      | Yes                                                                                                                 | Yes                                                                                                                                                 |
+
+### Note
+- Professional Members are for Malaysian or Malaysian Residents only
+- Only for Professional Members who holds valid ISC2 credential in good standing, shall be entitled to vote and hold office.
+- The ISC2 Malaysia Chapter operates separately to ISC2 Membership Fees and is for the local Chapter only.
+- All content of this site, exclusive of licensed trademarks or copyright, is the property of the designated ISC2 Malaysia Chapter, which is not owned, managed, or controlled by ISC2 and operates independent of ISC2.
+- ISC2 Malaysia Chapter Board of Directors reserve the right to select attendees or participants by Membership type for some Chapter activities. Membership type has corresponding Chapter benefits.
