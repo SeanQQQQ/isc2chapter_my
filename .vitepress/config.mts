@@ -14,7 +14,14 @@ export default defineConfig({
           { text: 'Board of Directors', link: '/home/board-of-directors' },
         ]
       },
-      { text: 'Membership', link: '/membership' },
+      {
+        text: 'Membership',
+        items: [
+          { text: 'About Membership', link: '/membership' },
+          { text: 'Join the Chapter', link: '/membership/join-the-chapter' },
+          { text: 'Merchandise', link: '/membership/merchandise' },
+        ]
+      },
       { text: 'Exclusive Event', link: '/exclusive-event' },
       { text: 'Partnership', link: '/partnership' },
       { text: 'Volunteer', link: '/volunteer' },
@@ -32,7 +39,14 @@ export default defineConfig({
               { text: 'Board of Directors', link: '/home/board-of-directors' },
             ]
           },
-          { text: 'Membership', link: '/membership' },
+          {
+            text: 'Membership',
+            items: [
+              { text: 'About Membership', link: '/membership' },
+              { text: 'Join the Chapter', link: '/membership/join-the-chapter' },
+              { text: 'Merchandise', link: '/membership/merchandise' },
+            ]
+          },
           { text: 'Exclusive Event', link: '/exclusive-event' },
           { text: 'Partnership', link: '/partnership' },
           { text: 'Volunteer', link: '/volunteer' },
