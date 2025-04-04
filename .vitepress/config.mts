@@ -10,7 +10,7 @@ export default defineConfig({
       {
         text: 'Home',
         items: [
-          { text: 'About Us', link: '/home/about-us' },
+          { text: 'About Us', link: '/home' },
           { text: 'Board of Directors', link: '/home/board-of-directors' },
         ]
       },
@@ -35,7 +35,7 @@ export default defineConfig({
           {
             text: 'Home',
             items: [
-              { text: 'About Us', link: '/home/about-us' },
+              { text: 'About Us', link: '/home' },
               { text: 'Board of Directors', link: '/home/board-of-directors' },
             ]
           },
