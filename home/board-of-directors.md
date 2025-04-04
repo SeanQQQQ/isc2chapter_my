@@ -8,7 +8,7 @@ import { VPTeamMembers } from 'vitepress/theme'
 
 const members = [
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/president.png',
+    avatar: '/president.png',
     name: 'Ts. Tan Zhon Teck',
     title: 'President',
     links: [
@@ -16,7 +16,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/secretary.png',
+    avatar: '/secretary.png',
     name: 'Robin Yong',
     title: 'Secretary',
     links: [
@@ -24,7 +24,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/treasurer.png',
+    avatar: '/treasurer.png',
     name: 'Arimi K',
     title: 'Treasurer',
     links: [
@@ -32,7 +32,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/director-membership.png',
+    avatar: '/director-membership.png',
     name: 'Khairul Naim',
     title: 'Membership Director',
     links: [
@@ -40,7 +40,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/director-events.png',
+    avatar: '/director-events.png',
     name: 'Segaran Chandran',
     title: 'Director (Events)',
     links: [
@@ -48,7 +48,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/director-communications.png',
+    avatar: '/director-communications.png',
     name: 'Tony Chong',
     title: 'Director (Communication)',
     links: [
@@ -56,7 +56,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/director-academia.png',
+    avatar: '/director-academia.png',
     name: 'Ahmad Fuad',
     title: 'Director (Academia Relation)',
     links: [
@@ -64,7 +64,7 @@ const members = [
     ]
   },
   {
-    avatar: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/home/director-volunteer.png',
+    avatar: '/director-volunteer.png',
     name: 'Ng Tuck Bin',
     title: 'Director (Volunteer & Outreach)',
     links: [
