@@ -16,4 +16,4 @@ Our chapter programmes provide an environment for peer networking for credential
 Our chapter programmes provide an environment for peer networking for credentialed professionals as well as non-credential professionals to promote professional development of leaders and professionals in information security.
 
 ## Chapter Constitution
-[Download Document here](./Bylaws.pdf)
+[Download Document here](/Bylaws.pdf)
