@@ -26,8 +26,14 @@ export default defineConfig({
       { text: 'Partnership', link: '/partnership' },
       { text: 'Volunteer', link: '/volunteer' },
       { text: 'Community', link: '/exclusive-community-forum' },
-      { text: 'Report Issue', link: '/report-security-issue' },
       { text: 'Certification', link: '/certification' },
+      {
+        text: 'Others',
+        items: [
+          { text: 'Report Issue', link: '/report-security-issue' },
+          { text: 'Contribution Guide', link: '/contribution' },
+        ]
+      },
     ],
     sidebar: [
       {
@@ -51,8 +57,14 @@ export default defineConfig({
           { text: 'Partnership', link: '/partnership' },
           { text: 'Volunteer', link: '/volunteer' },
           { text: 'Community', link: '/exclusive-community-forum' },
-          { text: 'Report Issue', link: '/report-security-issue' },
           { text: 'Certification', link: '/certification' },
+          {
+            text: 'Others',
+            items: [
+              { text: 'Report Issue', link: '/report-security-issue' },
+              { text: 'Contribution Guide', link: '/contribution' },
+            ]
+          },
         ]
       }
     ],
