@@ -4,7 +4,7 @@ export default defineConfig({
   title: "ISC2 Malaysia Chapter",
   description: "CONNECT | EDUCATE | INSPIRE | SECURE",
   themeConfig: {
-    logo: 'https://raw.githubusercontent.com/rethinksec/isc2my_chapter/refs/heads/main/logo.jpg',
+    logo: '/logo.jpg',
     siteTitle: false,
     nav: [
       {
