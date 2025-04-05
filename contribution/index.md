@@ -34,6 +34,17 @@ If you would like to contribute further. It is always welcome to submit a pull r
 
 If you are not familiar with creating content via Vitepress, you may also create an issue via GitHub ([Learn about create issue here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)), the technical team will assist to get it done.
 
+## Where to Contribute?
+### Pull Request
+- If you are raising a pull request, you will need to fork the repository first ([Repository Link](https://github.com/ISC2-Malaysia-Chapter/isc2chapter_my))
+- Once you are done with the updates, then you can raise a pull request ([Create Pull Requests here](https://github.com/ISC2-Malaysia-Chapter/isc2chapter_my/pulls))
+- Include your pull requests title & description, and the technical team will then review at the soonest possible.
+
+### Create Issue
+- After you have created a GitHub account, you can create your issue ([Create your issue here](https://github.com/ISC2-Malaysia-Chapter/isc2chapter_my/issues)), and select "New Issue" > "Feature Request"
+- From there then fill up the title & description as needed.
+- The technical team will then review the request & try to make it happens.
+
 ## What I can contribute
 You can contribute to any content, this including, but not limited to:
 - Newsletter
