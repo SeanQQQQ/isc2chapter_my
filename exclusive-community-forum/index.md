@@ -3,15 +3,25 @@ prev: false
 next: false
 ---
 
-# Exclusive Events
-The exclusive cybersecurity event(s), where we'll be diving into the latest trends, insights, and strategies that are shaping the digital security landscape. Our event should be given an incredible opportunity for you to enhance your knowledge, forge valuable connections, and share your experiences with fellow industry leaders.
+# WhatsApp Group Community Forum & Study Group for Certifications
+ISC2 Malaysia Chapter offers different community platforms for members and non-members to connect vibrant WhatsApp group community. As someone who shares our passion for cyber security, we believe you will find immense value and a supportive network of like-minded individuals in our group.
 
-## Benefits of joining the events
-- Learning Opportunities: Gain insights into cutting-edge technologies, threat intelligence, and best practices that can safeguard your digital assets.
-- Networking and Collaboration: Connect with fellow professionals, share your experiences, and discuss challenges and solutions that are relevant toyour organization.
-- Exploration of Solutions: Engage with leading cybersecurity solutions, explore demos, and discover tools that can bolster your security infrastructure。
-- Sharing Knowledge: Showcase your expertise by participating in knowledge-sharing sessions, contributing to discussions, and collaborating on strategies to tackle evolving threats.
-- Exclusive Insights: Be among the first to access industry reports, research findings, and exclusive content that will give you a competitive edge.
+![Community](/community-bg.jpg)
 
-## Upcoming Events
-![Coming soon](https://i.giphy.com/UYpelo7WbjZQg0dDQY.webp)
+![Community-1](/community-1.jpg)
+## How to Join ISC2 Malaysia Chapter - Big Family Cybersecurity Community?
+- Scan the QR Code and join the big family cybersecurity communhity
+- Prepare self-introduction & LinkedIn profile link
+- Your request will be verified by ISC2MY administrator before approving your access
+- Read the WhatsApp Community Group Description Rules
+- 
+![WhatsApp Group QR](/qr-code.svg)
+
+## ISC2MY WhatsApp Community
+![Community-2](/community-2.png)
+![Community-3](/community-3.png)
+![Community-4](/community-4.png)
+![Community-5](/community-5.png)
+
+## ISC2MY Study Group
+![ISC2MY Study Group](/community-6.png)
