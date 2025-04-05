@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  head: [['link', { rel: 'icon', href: '/favicon.png' }]],
   title: "ISC2 Malaysia Chapter",
   description: "CONNECT | EDUCATE | INSPIRE | SECURE",
   themeConfig: {
