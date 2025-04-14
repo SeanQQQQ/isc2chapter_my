@@ -24,7 +24,6 @@ export default defineConfig({
         ]
       },
       { text: 'Exclusive Event', link: '/exclusive-event' },
-      { text: 'Partnership', link: '/partnership' },
       { text: 'Volunteer', link: '/volunteer' },
       { text: 'Community', link: '/exclusive-community-forum' },
       { text: 'Certification', link: '/certification' },
@@ -55,7 +54,6 @@ export default defineConfig({
             ]
           },
           { text: 'Exclusive Event', link: '/exclusive-event' },
-          { text: 'Partnership', link: '/partnership' },
           { text: 'Volunteer', link: '/volunteer' },
           { text: 'Community', link: '/exclusive-community-forum' },
           { text: 'Certification', link: '/certification' },
