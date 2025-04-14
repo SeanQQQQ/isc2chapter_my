@@ -3,5 +3,8 @@ prev: false
 next: false
 ---
 
-# Exciting Merchandise Coming Soon!
-![Coming soon](https://i.giphy.com/UYpelo7WbjZQg0dDQY.webp)
+# Merchandise
+![Merchandise Enamel Pin](/merchandise-1.png)
+![Merchandise T-Shirt](/merchandise-2.jpg)
+![Merchandise T-Shirt](/merchandise-3.jpg)
+![Merchandise T-Shirt](/merchandise-4.png)
