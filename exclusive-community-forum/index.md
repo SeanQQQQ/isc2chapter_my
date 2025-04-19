@@ -14,8 +14,8 @@ ISC2 Malaysia Chapter offers different community platforms for members and non-m
 - Prepare self-introduction & LinkedIn profile link
 - Your request will be verified by ISC2MY administrator before approving your access
 - Read the WhatsApp Community Group Description Rules
-- 
-![WhatsApp Group QR](/qr-code.svg)
+
+<img src="/qr-code.svg" style="max-height: 300px; margin: auto" alt="Scan this QR code to continue">
 
 ## ISC2MY WhatsApp Community
 ![Community-2](/community-2.png)
