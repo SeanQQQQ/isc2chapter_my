@@ -13,7 +13,6 @@ hero:
 ![Main Page](/main-4.png)
 ![Main Page](/main-5.png)
 ![Main Page](/main-6.png)
-![Main Page](/main-7.png)
+[![Main Page](/main-7.png)](https://www.isc2.org/training/partners)
 ![Main Page](/main-8.png)
-![Main Page](/main-9.png)
-![Main Page](/main-10.png)
+<img src="/main-9.jpeg" style="margin: auto">
