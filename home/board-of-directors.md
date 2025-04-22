@@ -40,17 +40,17 @@ const members = [
     ]
   },
   {
-    avatar: '/director-events.png',
+    avatar: '/director-communications.png',
     name: 'Segaran Chandran',
-    title: 'Director (Events)',
+    title: 'Director (Communication)',
     links: [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/segaran-chandran-a4547566' }
     ]
   },
   {
-    avatar: '/director-communications.png',
+    avatar: '/director-events.png',
     name: 'Tony Chong',
-    title: 'Director (Communication)',
+    title: 'Director (Events)',
     links: [
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/tonyc86' }
     ]
