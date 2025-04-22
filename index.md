@@ -15,4 +15,8 @@ hero:
 ![Main Page](/main-6.png)
 [![Main Page](/main-7.png)](https://www.isc2.org/training/partners)
 ![Main Page](/main-8.png)
-<img src="/main-9.jpeg" style="margin: auto">
+
+<video width="1500" height="240" controls>
+  <source src="/the-cybersecurity-cxo-mindset-conference.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
