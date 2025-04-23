@@ -17,8 +17,7 @@ The exclusive cybersecurity event(s), where we'll be diving into the latest tren
 
 ## Upcoming Events
 
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKuala_Lumpur&showPrint=0&title=ISC2MY%20Events&src=Y18wMjMzNjNjMzE3OWE5NDMzNmIwMDlhNjAzYzI4ZDA4ZGI0MDU2MzBkOTJlMzlkZTdhN2Y3MjkyMmVhZjQ3NDZlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF" style="border:solid 1px #777" width="750" height="600" frameborder="0" scrolling="no"></iframe>
-
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Asia%2FKuala_Lumpur&showPrint=0&mode=AGENDA&showCalendars=0&showTz=0&src=Y18wMjMzNjNjMzE3OWE5NDMzNmIwMDlhNjAzYzI4ZDA4ZGI0MDU2MzBkOTJlMzlkZTdhN2Y3MjkyMmVhZjQ3NDZlQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%239E69AF" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 ## Past Events
 
 | Event                                                                                                                                                                                        | Date                                 | Location                                                             | Speaker                                                                                                                                                                                                                                                                                                                                                                                                    |
