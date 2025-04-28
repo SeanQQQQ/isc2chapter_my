@@ -7,6 +7,7 @@ hero:
   tagline: "CONNECT | EDUCATE | INSPIRE | SECURE"
 ---
 
+![Banner](/isc2my-banner.png)
 ![Main Page](/main-1.png)
 ![Main Page](/main-2.png)
 ![Main Page](/main-3.png)
