@@ -16,4 +16,5 @@ hero:
 ![Main Page](/main-6.png)
 [![Main Page](/main-7.png)](https://www.isc2.org/training/partners)
 ![Main Page](/main-8.png)
-![Upcoming Events](/klcc-park-run.png)
+![Upcoming Events](/gmi-event.png)
+![Upcoming Events](/cxo-event.png)
