@@ -30,7 +30,7 @@ First of all, thank you for your interest in contribute into this website. This 
 This website is built entirely via [Vitepress](https://vitepress.dev/). Hence it is important that you have read through the Vitepress documentation before you would like to contribute.
 
 ## How to Contribute
-If you would like to contribute further. It is always welcome to submit a pull request via GitHub ([Learn about pull request here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)). Once you have submitted your pull request, our team will work closely to cehck if the changes are making sense, and we will merge the pull request if the changes are good enough.
+If you would like to contribute further. It is always welcome to submit a pull request via GitHub ([Learn about pull request here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)). Once you have submitted your pull request, our team will work closely to check if the changes are making sense, and we will merge the pull request if the changes are good enough.
 
 If you are not familiar with creating content via Vitepress, you may also create an issue via GitHub ([Learn about create issue here](https://docs.github.com/en/issues/tracking-your-work-with-issues/using-issues/creating-an-issue)), the technical team will assist to get it done.
 
