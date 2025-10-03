@@ -16,4 +16,5 @@ hero:
 ![Main Page](/main-6.png)
 [![Main Page](/main-7.png)](https://www.isc2.org/training/partners)
 ![Main Page](/main-8.png)
-![Upcoming Events](/cxo-event-2.png)
+![Upcoming Events](/event-1.png)
+![Upcoming Events](/event-2.jpeg)
